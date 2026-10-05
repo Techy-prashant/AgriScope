@@ -5,6 +5,22 @@
 ## Project Overview and Objectives
 The Smart Agri-Data Insights Dashboard is an interactive web application designed to help users explore and compare agricultural datasets. Our primary objective is to provide an intuitive interface for viewing crop-specific environmental and soil requirements, aiding researchers and students in understanding historical crop performance data without requiring complex coding or database knowledge.
 
+## Dashboard Previews
+
+### Landing Page
+![Landing Page](assets/Readme%20images/landing%20page.png)
+
+### Overview and Crop Explorer
+![Overview and Crop Explorer](assets/Readme%20images/Overview%20and%20Crop%20Explorer.png)
+![Overview and Crop Explorer (Graphs)](assets/Readme%20images/Overview%20and%20Crop%20Explorer(Graphs).png)
+
+### Crop Comparison
+![Crop Comparison 1](assets/Readme%20images/Crop%20Comparison(1).png)
+![Crop Comparison 2](assets/Readme%20images/Crop%20Comparison(2).png)
+
+### Data Quality Report
+![Data Quality Report](assets/Readme%20images/Data%20Quality%20Report.png)
+
 ## Features
 - **Single Crop Analysis**: View detailed average statistics (Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, Rainfall) and distributions for any specific crop.
 - **Crop Comparison**: Select multiple crops to visually compare their nutrient and environmental profiles using grouped bar charts.
