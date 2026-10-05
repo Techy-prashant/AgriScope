@@ -164,7 +164,7 @@ with col_head1:
     with btn_col2:
         st.link_button("View on GitHub", "https://github.com/Techy-prashant/AgriScope", icon=":material/code:", use_container_width=True)
 with col_head2:
-    if os.path.exists("assets/banner.jpg"):
+    if os.path.exists("assets/banner.svg"):
         st.markdown(
             """
             <style>
@@ -176,7 +176,7 @@ with col_head2:
             </style>
             """, unsafe_allow_html=True
         )
-        st.image("assets/banner.jpg", use_container_width=True)
+        st.image("assets/banner.svg", use_container_width=True)
 
 # Define the relative path to the dataset
 DATA_PATH = os.path.join("DataSet", "Crop_recommendation.csv")
