@@ -1,5 +1,7 @@
 # Smart Agri-Data Insights Dashboard 🌱
 
+🚀 **Live Dashboard:** [https://agriscopegit-dashboard.streamlit.app/](https://agriscopegit-dashboard.streamlit.app/)
+
 ## Project Overview and Objectives
 The Smart Agri-Data Insights Dashboard is an interactive web application designed to help users explore and compare agricultural datasets. Our primary objective is to provide an intuitive interface for viewing crop-specific environmental and soil requirements, aiding researchers and students in understanding historical crop performance data without requiring complex coding or database knowledge.
 
